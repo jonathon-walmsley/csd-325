@@ -1,3 +1,8 @@
+# Jonathon Walmsley
+# 06/28/2026
+# Module 4.2
+# Purpose: Add User Options to select Data Set for Sitka Weather App
+
 import csv
 import sys
 from datetime import datetime
